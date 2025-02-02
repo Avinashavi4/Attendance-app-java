@@ -36,6 +36,6 @@ public class User {
 
     // Display User Info
     public void displayUser() {
-        System.out.println("User Registered: " + name + " | Email: " + email);
+        System.out.println("UserRegistered: " + name + " | Email: " + email);
     }
 }
